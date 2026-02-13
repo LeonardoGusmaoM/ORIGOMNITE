@@ -6,7 +6,7 @@
   # ORIGOMNITE: A ASCENSÃO DA MAGIA
 ### Um RPG 3D de ação baseado na cultura brasileira.
 
-[Download](https://drive.google.com/file/d/1BNerI7TX913HHIkPyoHeAGtMw9c04zi0/view) - [Relatório Técnico: Parte Escrita do TCC](https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/relatorio_tecnico/parteescrita%20tcc.pdf)
+[Download](https://drive.google.com/file/d/1BNerI7TX913HHIkPyoHeAGtMw9c04zi0/view) - [Relatório Técnico: Parte Escrita do TCC](https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/relat%C3%B3rio%20t%C3%A9cnico/parteescrita%20tcc.pdf)
 
 Principais softwares para desenvolvimento:
 
