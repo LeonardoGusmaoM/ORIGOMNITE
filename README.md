@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/capa.png" alt="Capa do Origomnite" width = 600>
+  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/capa.png" alt="Capa do Origomnite" width = 600> 
   
 <div/>
 
@@ -78,7 +78,7 @@ de Lana parecem heróicas e justas, contudo, ao longo de Origomnite, o egoísmo 
 
 | Concept Art | Modelo Final |
 |----------|----------|
-|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/lanac.png" alt="Concept Lana" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/lana.png" alt="Modelo Lana em jogo" height=300> |
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/lanac.png" alt="Concept Lana" height=300> |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/lana.png" alt="Modelo Lana em jogo" height=300> |
 
 Aventureira que conduz o game.
 
@@ -90,7 +90,7 @@ Aventureira que conduz o game.
 
 | Modelo Final |
 |----------|
-|  <img src=https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/giovanna.png alt="Img Giovanna" height=300>  |
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/giovanna.png" alt="Img Giovanna" height=300>  |
 
 Homenagem à professora que nos deu aula de TCC. É uma figurante que fica no bar do Douglas tomando chá gelado.
 
@@ -100,7 +100,7 @@ Homenagem à professora que nos deu aula de TCC. É uma figurante que fica no ba
 
 | Concept Art | Modelo Final |
 |----------|----------|
-|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/douglasc.png" alt="Concept Douglas" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/douglas.png" alt="Img Douglas" height=300> 
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/douglasc.png" alt="Concept Douglas" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/douglas.png" alt="Img Douglas" height=300> 
 
 Dono do bar. Em Origomnite, fornece informações ao jogador.
 
@@ -110,7 +110,7 @@ Dono do bar. Em Origomnite, fornece informações ao jogador.
 
 | Modelo Final |
 |----------|
-|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/kaj%C3%A1.png" alt="Img Kajá" height=300>  |  
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/kaj%C3%A1.png" alt="Img Kajá" height=300>  |  
 
 Fiel companheiro da protagonista. É um indicador de como se encontra a magia do mundo no decorrer das escolhas de Lana.
 
@@ -123,7 +123,7 @@ Fiel companheiro da protagonista. É um indicador de como se encontra a magia do
 
 | Concept Art | Modelo Final |
 |----------|----------|
-|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/juninc.png" alt="Concept Junin" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/junin.png" alt="Img Junin" height=300> | 
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/juninc.png" alt="Concept Junin" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/junin.png" alt="Img Junin" height=300> | 
 
 Primeiro inimigo que deve ser enfrentado, protege o caminho até as ruínas que encobrem a pedra mágica.
 
@@ -134,7 +134,7 @@ Primeiro inimigo que deve ser enfrentado, protege o caminho até as ruínas que 
 
 | Concept Art | Modelo Final |
 |----------|----------|
-|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/tekoac.png" alt="Concept Tekoa" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/tekoa.png" alt="Img Tekoa" height=300> 
+|  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/tekoac.png" alt="Concept Tekoa" height=300>  |  <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/tekoa.png" alt="Img Tekoa" height=300> 
 
 Supremo guardião da pedra mágica. Reside nas ruínas.
 
@@ -153,23 +153,23 @@ Supremo guardião da pedra mágica. Reside nas ruínas.
 
 
 ## Screenshots em gameplay
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/ingame5.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/ingame4.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/ingame3.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/ingame2.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/ingame1.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/ingame5.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/ingame4.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/ingame3.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/ingame2.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/ingame1.png" alt="Screenshot">
 
 ## Screenshots do Desenvolvimento
 ### Godot and GDScript
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/godotandgdcript4.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/godotandgdscript1.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/godotandgdscript2.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/godotandgdscript6.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/godotandgdcript4.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/godotandgdscript1.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/godotandgdscript2.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/godotandgdscript6.png" alt="Screenshot">
  
  ### Blender
- <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/blender5.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/blender4.png" alt="Screenshot">
-<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/images_for_readme/blender3.png" alt="Screenshot">
+ <img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/blender5.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/blender4.png" alt="Screenshot">
+<img src="https://github.com/LeonardoGusmaoM/ORIGOMNITE/blob/main/assets/Images%20for%20readme/blender3.png" alt="Screenshot">
 
 
 
